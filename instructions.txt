@@ -1,0 +1,17 @@
+Your mission is to save the islanders by identifying the volcanic 
+island, the one with the highest average elevation.
+**How to Play:
+Goal: Click on the island with the volcano to rescue its people.
+Lives: You start with 3 lives. Every correct guess earns you an extra life!
+Volcano Power: After 3 correct guesses, activate the volcano to sink 2 wrong 
+islands, making your task easier.
+**Controls:
+Left-click to guess an island.
+Right-click to activate the volcano after 3 hits.
+Press ESC if you want to return to the main menu.
+**Game Modes:
+Standard Mode: Take your time, guess, and earn lives with each correct choice.
+Extreme Mode: You have 5 seconds to guess each round, and correct guesses 
+do not add lives!
+
+Good luck, hero! The islanders are counting on you!
