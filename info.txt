@@ -5,3 +5,4 @@
 3. Ensure that the file structure is preserved, with the `pictures/` folder beside the `Peak Islands` folder.
 4. If necessary, adjust the paths to images in the code (e.g., for custom directories or when deploying the game).
 5. The font used throughout the game is `Pixellettersfull-BnJ5`, which is also included in the project files.
+6. The `instructions/` folder is intended for displaying instructions within the game, not for setup purposes.
